@@ -3,5 +3,6 @@
 1. SOHAN
 2. RAJU
 3. TEJA
-4. HARSHITA
+4. HARSHITA-Frontend Intern
 5. JEEVANA
+
