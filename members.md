@@ -4,5 +4,5 @@
 2. RAJU -DEVELOPER
 3. TEJA
 4. HARSHITA-Frontend Intern
-5. JEEVANA
+5. JEEVANA -Q\&A Enginner
 
