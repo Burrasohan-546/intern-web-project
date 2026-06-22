@@ -1,21 +1,2 @@
-<<<<<<< HEAD
 # INTERNN WEB PROJECT
-=======
-#JEEVANA WEB PROJECT
-This is jeevana
->>>>>>> main
-
-THIS REPOSITORY IS CREATED FOR INTERNSHIP GIT AND GITHUB PROJECT 
-
-## TEAM MEMBERS
-
-* SOHAN
-* RAJU
-* TEJA
-<<<<<<< HEAD
-* HARSHITA 
-=======
-* HARSHITA
->>>>>>> main
-* JEEVANA
 
